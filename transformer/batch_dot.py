@@ -2,7 +2,7 @@
 Current batch_dot implementation of keras 2.2.4 is not working correctly
 '''
 import tensorflow as tf
-import keras.backend as K
+import tensorflow.keras.backend as K
 
 
 py_any = K.py_any
